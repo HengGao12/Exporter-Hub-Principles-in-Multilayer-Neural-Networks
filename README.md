@@ -1,3 +1,7 @@
+# Exporter Hub Principles in Multilayer Neural Networks
+> Fudan University
+> Heng Gao
+
 ## Installation
 
 Base Environment
