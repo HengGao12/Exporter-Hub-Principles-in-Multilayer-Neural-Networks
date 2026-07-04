@@ -1,5 +1,5 @@
 # Exporter Hub Principles in Multilayer Neural Networks
-> Fudan University
+> Fudan University  
 > Heng Gao
 
 ## Installation
