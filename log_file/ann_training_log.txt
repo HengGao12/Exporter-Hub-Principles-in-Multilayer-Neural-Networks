@@ -1,0 +1,22 @@
+Start training.
+Epoch [1/10], Loss: 0.2186
+Saved the model with the best accuracy: 96.6700
+Epoch [2/10], Loss: 0.1007
+Saved the model with the best accuracy: 97.1200
+Epoch [3/10], Loss: 0.0765
+Saved the model with the best accuracy: 97.5000
+Epoch [4/10], Loss: 0.0574
+Saved the model with the best accuracy: 97.5300
+Epoch [5/10], Loss: 0.0517
+Saved the model with the best accuracy: 97.8600
+Epoch [6/10], Loss: 0.0438
+Saved the model with the best accuracy: 97.9600
+Epoch [7/10], Loss: 0.0382
+Epoch [8/10], Loss: 0.0358
+Saved the model with the best accuracy: 98.1800
+Epoch [9/10], Loss: 0.0326
+Epoch [10/10], Loss: 0.0318
+Training complete. Enjoy!
+Final accuracy of the network on the test images: 98.06%
+Start training.
+Start training.
